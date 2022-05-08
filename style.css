@@ -1,0 +1,38 @@
+body{
+    background-color: rgba(71, 158, 155, 0.774);
+    font-family:fantasy;
+}
+
+h1{
+    font-size: 45px;
+}
+
+marquee{
+    background-image: linear-gradient(to left, rgb(255, 254, 188), rgb(255, 161, 94));
+    padding-top: 15px;
+    border-radius: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-style:groove;
+    border-width: 10px;
+    border-color:rgba(134, 104, 80, 0.909);
+}
+
+h3{
+    font-size: 30px;
+}
+
+img{
+    height: 210px;
+    width: 280px;
+    margin: 12px;
+    border-radius: 30px;
+    border-style: double;
+    border-color:rgba(134, 104, 80, 0.909);
+    border-width: 10px;
+}
+
+img:hover{
+    height: 230px;
+    width: 300px;
+}
